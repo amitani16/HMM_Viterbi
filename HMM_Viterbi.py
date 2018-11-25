@@ -16,6 +16,7 @@ em_prob = {'Rainy'  : {'sleep': 0.4, 'game': 0.4, 'eat': 0.1},
           }
 '''
 
+
 obs_states = ('normal', 'cold', 'dizzy', )
 
 hidden_states = ('Healthy', 'Fever')
