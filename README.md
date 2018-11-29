@@ -1,6 +1,6 @@
 # HMM_Viterbi
 
-To learn how Viterbi algorithm works
+Learning how Viterbi algorithm works
 
 # References
 
